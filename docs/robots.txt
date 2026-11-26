@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lux1984.github.io/receipt-splitter-cli/sitemap.xml
